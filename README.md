@@ -59,14 +59,13 @@ This project was developed as part of a Data Structures coures to demonstrate th
 ## Project Structure
 
 AVL_Music_Player/
-
 ├── include/
 │   └── playlist_avl.h
-│
 ├── src/
 │   ├── main.c
 │   └── playlist_avl.c
-│
+├── images/
+│   └── menu_image.png
 ├── Makefile
 ├── README.md
 └── .gitignore
